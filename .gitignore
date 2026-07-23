@@ -4,4 +4,5 @@ __pycache__/
 *.pyc
 .env
 build/
-"Enrollment Detail Report - Print.pdf"
+Enrollment Detail Report*.pdf
+*.pdf
